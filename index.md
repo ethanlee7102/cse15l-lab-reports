@@ -1,3 +1,3 @@
-Hello, world! /n
+Hello, world!
 *Italic*
 **BOLD**
