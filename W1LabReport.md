@@ -10,8 +10,8 @@ If everything was done right you should get something like this:
 ![Image](Screen Shot 2023-01-14 at 7.50.38 PM.png) 
 ## **Step 3: Trying Some Commands**  
 Try some commands such as:  
-cd ~, cd, ls, ls -lat, ls -a, ls <directory>, cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/, cat /home/linux/ieng6/cs15lwi23/public/hello.txt  
-Type exit into the terminal to log out of the remote servers and try the commands again to see the difference.
+cd ~, cd, ls, ls -lat, ls -a, cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/, cat /home/linux/ieng6/cs15lwi23/public/hello.txt  
+Type exit into the terminal to log out of the remote servers and try the commands again to see the difference.  
 Here is an example of what you would see when using the ls -lat command:  
 ![Image](Screen Shot 2023-01-14 at 6.18.41 PM.png)
 
