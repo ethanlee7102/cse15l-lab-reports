@@ -8,7 +8,7 @@ For the first screenshot the method `handleRequest()` is called and it has an ar
 For the second screenshot the method `handleRequest()` is called and it has an argument called url which is of type `URI`. The method changes a field in the class called string which is of type `String`. The variable, string, has `"How are you"` concatenated to it. Also a `"\n"` is concatenated after the String. Since it is being concatenated both "Hello" and "How are you" are shown on the screen.  
 ## **Part 2** 
 For the method `reversed()`:  
-Failure-inducing input:
+Failure-inducing input:  
 ```
 int[] input2 = {1, 2, 3, 4 };
 assertArrayEquals(new int[]{ 4, 3, 2, 1}, ArrayExamples.reversed(input2));
