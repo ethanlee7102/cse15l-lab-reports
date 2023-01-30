@@ -18,10 +18,10 @@ Passing input:
 int[] input1 = { };
 assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
 ```
-Symptom:
+Symptom:  
 ![Image](Screen Shot 2023-01-30 at 1.18.48 AM.png) 
 
-The Bug:
+The Bug:  
 Before
 ```
 static int[] reversed(int[] arr) {
