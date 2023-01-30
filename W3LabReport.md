@@ -7,7 +7,7 @@ For the first screenshot the method `handleRequest()` is called and it has an ar
 ![Image](Screen Shot 2023-01-30 at 12.12.15 AM.png)  
 For the second screenshot the method `handleRequest()` is called and it has an argument called url which is of type `URI`. The method changes a field in the class called string which is of type `String`. The variable, string, has `"How are you"` concatenated to it. Also a `"\n"` is concatenated after the String. Since it is being concatenated both "Hello" and "How are you" are shown on the screen.  
 ## **Part 2** 
-For the method `reversed()`:
+For the method `reversed()`:  
 Failure-inducing input:
 ```
 int[] input2 = {1, 2, 3, 4 };
