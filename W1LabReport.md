@@ -20,5 +20,5 @@ Try some commands such as:
 Type exit into the terminal to log out of the remote servers and try the commands again to see the difference.  
 Here is an example of what you would see when using the `ls -lat` command:  
 ![Image](Screen Shot 2023-01-14 at 6.18.41 PM.png) 
-This image shows what would happen when you are logged into the remote server. When running the same command when you are logged out, different files are listed. I learned that when logged into a remote server the files that you can access can be different.
+This image shows what would happen when you are logged into the remote server. When running the same command while you are logged out, different files are listed. I learned that when logged into a remote server the files that you can access can be different.
 
