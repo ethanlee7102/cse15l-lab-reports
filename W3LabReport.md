@@ -45,4 +45,4 @@ static int[] reversed(int[] arr) {
 The issue was that the places of `arr` and `newArray` were flipped when in the for loop and then `arr` was being returned. This led to `arr` being overwritten as a reverse of the `newArray`. Instead we wanted to reverse `arr` so by flipping the variables the correct output was obtained. 
 
 ## **Part 3**  
-Something that I learned from lab 2 was how to us urls as an input to my code. I also learned how to run a server and then use those urls to affect the server.
+Something that I learned from lab 2 was how to use urls as an input to my code. I also learned how to run a server and then use those urls to affect the server.
