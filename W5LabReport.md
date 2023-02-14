@@ -1,5 +1,5 @@
 ## **Command-Line Options for grep** 
-**1. grep -R**
+**1. grep -R** 
 Example 1:
 ```
 % grep -R "Pindling" written_2     
@@ -13,7 +13,7 @@ Example 2:
 `grep -R` recusively searches subdirectories which allows it to look for specific strings that may be within multiple layers of directories. This is useful because with it we can search through all subdirectories within a directory at once instead of looking through each subdirectory one by one. I found this command through using the command `man grep`.
 
   
-**2. grep -n**
+**2. grep -n** 
 Example 1:
 ```
 % grep -n "rural" WhereToGreek.txt written_2/travel_guides/berlitz1/WhereToGreek.txt
@@ -28,7 +28,7 @@ Example 2:
 ```
 `grep -n` returns the line number along with the line that the specified string is found within a file. This is useful because instead of searching where the string is within the file, you can use this command to know exactly where it will be. I found this command through using the command `man grep`. 
 
-**3. grep -i**
+**3. grep -i** 
 Example 1: 
 ```
 % grep -i "saturday" written_2/travel_guides/berlitz2/Paris-WhatToDo.txt
@@ -46,7 +46,7 @@ Example 2:
         where archaeologists found the Winged Victory of Samothraki, now in the
 ```
 `grep -i` returns the line that contains the specified string regardless of capitilization. This is useful to check for strings that could potentialy have upper and/or lowercases. I found this command through using the command `man grep`.  
-**4. grep -c**
+**4. grep -c** 
 ```
 % grep -c "were" written_2/non-fiction/OUP/Abernathy/ch1.txt    
 7
