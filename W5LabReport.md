@@ -28,7 +28,7 @@ Example 2:
 ```
 `grep -n` returns the line number along with the line that the specified string is found within a file. This is useful because instead of searching where the string is within the file, you can use this command to know exactly where it will be. I found this command through using the command `man grep`. 
 
-**3. grep -i** 
+**3. grep -i**  
 Example 1: 
 ```
 % grep -i "saturday" written_2/travel_guides/berlitz2/Paris-WhatToDo.txt
