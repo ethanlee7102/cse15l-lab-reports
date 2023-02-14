@@ -1,5 +1,5 @@
 ## **Command-Line Options for grep** 
-**1. grep -R** 
+**1. grep -R**   
 Example 1:
 ```
 % grep -R "Pindling" written_2     
